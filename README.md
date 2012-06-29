@@ -6,3 +6,4 @@
 * [jQuery UI Datepicker](http://jqueryui.com/demos/datepicker/)
 * [Dojo Calendar](http://dojotoolkit.org/reference-guide/1.7/dijit/Calendar.html)
 * [Mootools Calendar](http://electricprism.com/aeron/calendar/)
+* [Kalendae](https://github.com/ChiperSoft/Kalendae)
